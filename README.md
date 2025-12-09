@@ -1,6 +1,6 @@
 <!-- 🌌 Banner personalizado -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,100:00A8FF&height=180&section=header&text=Andr%C3%A9%20Pereira%20Machado&fontSize=32&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" alt="Banner André  abaorges Pereira Machado" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,100:00A8FF&height=180&section=header&text=Andr%C3%A9%20Pereira%20Machado&fontSize=32&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" alt="Banner André Borges" />
 </p>
 
 <p align="center">
