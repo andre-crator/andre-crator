@@ -1,6 +1,6 @@
 <!-- 🌌 Banner personalizado -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,100:00A8FF&height=180&section=header&text=Andr%C3%A9%20Pereira%20Machado&fontSize=32&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" alt="Banner André Pereira Machado" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,100:00A8FF&height=180&section=header&text=Andr%C3%A9%20Pereira%20Machado&fontSize=32&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" alt="Banner André  abaorges Pereira Machado" />
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 ## 👋 Sobre mim
 
-Olá! Eu sou o **André Pereira**, estudante de **Engenharia de Software** e apaixonado por:
+Olá! Eu sou o **André Borges **, estudante de **Engenharia de Software** e apaixonado por:
 
 - 🖥️ Desenvolvimento Web (Front-end & Back-end)  
 - 🧠 Inteligência Artificial e Automação  
