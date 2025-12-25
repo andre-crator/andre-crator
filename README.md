@@ -46,7 +46,7 @@ Este GitHub é o meu **laboratório de aprendizado** e o meu **portfólio profis
 ## 🧭 Timeline de Progresso
 
 ```txt
-2024 ─ Início dos estudos mais sérios em programação (Python, lógica, web)
+2025 ─ Início dos estudos mais sérios em programação (Python, lógica, web)
 2025 ─ Ingresso em Engenharia de Software + primeiros projetos organizados no GitHub
 2026 ─ Foco em estágio, projetos reais e colaboração com outros devs
 2027+ ─ Consolidação como desenvolvedor full stack / área de interesse ainda em definição
